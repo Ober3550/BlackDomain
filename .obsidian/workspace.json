@@ -32,19 +32,67 @@
             }
           },
           {
+            "id": "0e2c04d7cff1a27a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84d64d0afb61cef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ea8f556abcc4d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "547509049bb71b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chapter Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "38191bc9a3dac537",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moved notes.md",
+                "file": "Notes/Moved notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,11 +219,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26b421d85e1ec342",
+  "active": "9ea8f556abcc4d6f",
   "lastOpenFiles": [
-    "Moved notes.md",
-    "Character Notes.md",
+    "Chapter1/Draft3.md",
     "README.md",
+    "Notes/Moved notes.md",
+    "Notes",
+    "Chapter1/Draft2.md",
+    "Chapter1/Draft1.md",
+    "Chapter1",
+    "Notes/Character Notes.md",
+    "Notes/Chapter Notes.md",
     "Test Chapter One.md"
   ]
 }
