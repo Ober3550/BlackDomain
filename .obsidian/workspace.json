@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "17e773bd9fedd03d",
+            "id": "26b421d85e1ec342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Chapter One.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38191bc9a3dac537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moved notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Chapter One.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Chapter One.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Chapter One.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e773bd9fedd03d",
+  "active": "26b421d85e1ec342",
   "lastOpenFiles": [
+    "Moved notes.md",
+    "Character Notes.md",
     "README.md",
     "Test Chapter One.md"
   ]
